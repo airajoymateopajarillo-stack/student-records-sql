@@ -13,3 +13,7 @@ A simple SQL database to store and manage student information.
 - CRUD operations
 - Filtering with WHERE
 - Sorting with ORDER BY
+
+
+## Example Query Result
+![Query Result Screenshot](docs/query_results.png)
