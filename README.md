@@ -15,5 +15,5 @@ A simple SQL database to store and manage student information.
 - Sorting with ORDER BY
 
 ## Example Query Result
-![Query Result Screenshot](docs/student_records.sql.png)
+![Query Result Screenshot](student_records.sql.png)
 
