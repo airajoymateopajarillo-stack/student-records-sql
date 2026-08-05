@@ -1,5 +1,3 @@
-
-
 -- Create table for students
 CREATE TABLE Students (
     StudentID INT PRIMARY KEY,
