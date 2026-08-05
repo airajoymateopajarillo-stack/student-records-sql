@@ -1,18 +1,4 @@
-# Student Records Database (SQL Practice)
 
-## Overview
-A simple SQL database designed to store and manage student information such as names, courses, and grades.
-
-## Features
-- Create tables for students, courses, and grades.
-- Insert, update, and delete student records.
-- Query student performance using `SELECT` with filters and sorting.
-
-## Skills Practiced
-- Table creation
-- Basic CRUD operations
-- Filtering with `WHERE` clauses
-- Sorting with `ORDER BY`
 
 -- Create table for students
 CREATE TABLE Students (
